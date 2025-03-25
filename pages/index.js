@@ -210,6 +210,7 @@ export default function Home() {
         <Button onClick={applyBold}><b>B</b></Button>
         <Button onClick={applyUnderline}><u>U</u></Button>
         <Button onClick={resetText}>🔄 Reset Text</Button>
+        <Button onClick={copyText}>📋 Copy Text</Button>
       </Group>
       </Container>
   )
