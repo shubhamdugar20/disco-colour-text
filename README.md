@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
-
+A Website which is used to add style to text like colours,bg colour, bold etc and copy it for discord chat in a formatted format.
 ## Getting Started
 
 First, run the development server:
